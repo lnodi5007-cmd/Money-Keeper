@@ -1,0 +1,17 @@
+MoneyKeeper/
+├── App.js
+├── package.json
+├── app.json
+├── src/
+│   ├── context/
+│   │   └── LanguageContext.js
+│   ├── i18n/
+│   │   └── translations.js
+│   ├── database/
+│   │   └── database.js
+│   └── screens/
+│       ├── HomeScreen.js
+│       ├── AddTransactionScreen.js
+│       ├── TransactionsScreen.js
+│       ├── StatisticsScreen.js
+│       └── SettingsScreen.js
